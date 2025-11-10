@@ -1,0 +1,4 @@
+action taken: jump
+action taken: run
+action taken: sleep
+action taken: cry

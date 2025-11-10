@@ -1,0 +1,5 @@
+Action taken: sleep
+Action taken: cry
+Action taken: jumpAction taken: sleepAction taken: cryAction taken: laughAction taken: sleep
+Action taken: cry
+Action taken: laugh

@@ -1,0 +1,5 @@
+Action taken: eat
+Action taken: sleep
+Action taken: read
+Action taken: write
+Action taken: cook
